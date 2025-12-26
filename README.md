@@ -5,7 +5,7 @@ Excel dashboard project analyzing used car data using pivot tables and charts
 ## 📊 Excel Dashboard – Used Car Analysis (CarDekho)
 
 ### Dashboard Overview
-![CarDekho Dashboard](cardekho_dashboard.png)
+![Used Car Analysis Dashboard](https://github.com/Mrunalisonawane001/excel-dashboard-used-car-analysis/blob/main/dash.png)
 
 ### Key Insights
 - Total cars by fuel type
